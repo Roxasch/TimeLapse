@@ -1,0 +1,3 @@
+# TimeLapse
+
+Wanted to make a time lapse of me making my website but all the screen recording software for mac cost money. So I made a simple program that will take a screenshot every so many seconds to a directory of your choice. It also searches that directory to see if it has other pictures saved in it from this program and will change the starting name as to not overwrite any of the previous pictures. Just need to change the name of save_path to where you want the pictures saved. You can also change time_gap to indecate how many seconds you want to wait until a new frame is captured. As far as I know this will only work for unix systems.
